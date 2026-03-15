@@ -1,4 +1,4 @@
-# 67 - Cosmic Task Manager: Implementation Deep Dive
+# ![alt text](image.png) 67 - Cosmic Task Manager: Implementation Deep Dive
 
 Welcome to the technical documentation for **67**, a premium cosmic-themed To-Do application. This document provides an exhaustive explanation of the architectural decisions, design patterns, and implementation details that power this application.
 
